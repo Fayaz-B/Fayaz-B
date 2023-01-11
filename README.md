@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fayaz</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
-![Fayaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fayazpn&show_icons=true&theme=algolia)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fayazpn&theme=python-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 - 🔭 I’m currently looking for oppertunities in United Arab Emirates/Remote
 
