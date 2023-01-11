@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fayaz</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fayaz-b" alt="fayaz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fayazpn" alt="fayaz" /> </p>
 
-- 🔭 I’m currently looking for oppertunities in United Arab Emirates/ Remote.
+- 🔭 I’m currently looking for oppertunities in United Arab Emirates/Remote
 
 - 👨‍💻 All of my projects are available at [https://fayaz-portfolio.vercel.app](https://fayaz-portfolio.vercel.app)
+
+- 💡 I love open sourcing
 
 - 💬 Favorite language **JavaScript**
 
