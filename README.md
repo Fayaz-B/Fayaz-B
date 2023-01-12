@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Fayaz</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
-[![Fayaz's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/fayazpn?cardType=github&theme=city-lights)](https://git.io/awesome-stats-card)
+<!-- Dark Mode -->
+<div align="center"> 
+ <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fayazpn&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fayazpn&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+</a>
+
+</div>
 
 - 🔭 I’m currently looking for oppertunities in United Arab Emirates/Remote
 
