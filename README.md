@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Fayaz</h1>
-<h3 align="center">Aspiring Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <!-- Dark Mode -->
 <div align="center"> <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fayazpn&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Fayaz's Github stats" />
 </a><a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fayazpn&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Fayaz's Language stats" />
 </a></div>
 
-- 🔭 I’m currently looking for oppertunities in United Arab Emirates/Remote
+- 🔭 Based in Dubai, United Arab Emirates
 
-- 👨‍💻 All of my projects are available at [https://fayaz-portfolio.vercel.app](https://fayaz-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [www.fayazpn.dev](https://www.fayazpn.dev)
 
 - 💡 I love open sourcing
 
